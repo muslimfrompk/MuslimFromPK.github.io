@@ -30,7 +30,7 @@ twitter_username: MuslimFromPK
 github_username:  MuslimFromPK
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 minima:
