@@ -30,7 +30,7 @@ twitter_username: MuslimFromPK
 github_username:  MuslimFromPK
 
 # Build settings
-theme: minima
+theme: chirpy
 plugins:
   - jekyll-feed
 
