@@ -30,10 +30,9 @@ twitter_username: MuslimFromPK
 github_username:  MuslimFromPK
 
 # Build settings
-remote-theme: jekyll/minimal
+theme: hacker
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 minima:
   - skin: dark
 # Exclude from processing.
